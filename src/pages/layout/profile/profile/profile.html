@@ -1,0 +1,92 @@
+
+<ion-header>
+  <ion-navbar color="white" class="white-text">
+     <button ion-button menuToggle class="TopLMenu">
+      <ion-icon name="menu"></ion-icon>
+    </button>
+        <ion-title >개발진 프로필</ion-title>
+    <ion-buttons  right>
+        <button color="light" ion-button icon-only>
+            <ion-icon name="more"></ion-icon>
+        </button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content padding>
+
+  <div id="profile1-info" class="test-class" padding>
+
+    <img id="profile1-image" class="pop-in" src="{{(profile | async)?.imgProfile}}"/>
+    <!--<h3 id="profile1-name">{{(profile | async)?.name}}</h3>-->
+    <!--<p>{{(profile2 | async)?.company}} &bull; {{(profile2 | async)?.position}}</p> -->
+    <!--<button ion-button *ngIf="!following"  block color="amber" (click)="follow()">Follow</button>-->
+    <!--<button ion-button icon-left *ngIf="following"  block color="gray" (click)="follow()">-->
+      <!--<ion-icon name="checkmark"></ion-icon>-->
+      <!--Following-->
+    <!--</button>-->
+
+    <!--<ion-grid >-->
+      <!--<ion-row class="profile1-numbers">-->
+
+        <!--<ion-col width-33>-->
+          <!--<span>{{(profile | async)?.follower}}</span>-->
+          <!--<p>Followers</p>-->
+        <!--</ion-col>-->
+
+        <!--<ion-col width-33>-->
+          <!--<span>{{(profile | async)?.following}}</span>-->
+          <!--<p>Following</p>-->
+        <!--</ion-col>-->
+
+        <!--<ion-col width-33>-->
+          <!--<span>{{(profile | async)?.following}}</span>-->
+          <!--<p>Following</p>-->
+        <!--</ion-col>-->
+
+      <!--</ion-row>-->
+    <!--</ion-grid>-->
+
+  </div>
+
+
+<!--***********  About  ***********-->
+
+  <ion-list no-lines text-wrap>
+      <ion-list-header>
+        <h2> About</h2>
+      </ion-list-header>
+      <ion-item>
+        <p >{{(profile | async)?.aboutMe}}</p>
+      </ion-item>
+  </ion-list>
+
+<!--***********  Contact  ***********-->
+  <ion-list no-lines>
+    <ion-list-header>
+      <h2>Contact</h2>
+    </ion-list-header>
+    <ion-item>
+        <ion-icon name="ios-mail" item-left></ion-icon>
+        <h2>engel5105@ajou.ac.kr</h2>
+        <p>개발자 이메일</p>
+    </ion-item>
+    <ion-item>
+        <ion-icon name="ios-mail" item-left></ion-icon>
+        <h2>ljs4385@ajou.ac.kr</h2>
+        <p>기획자 이메일</p>
+    </ion-item>
+     <ion-item>
+      <ion-icon name="ios-mail" item-left></ion-icon>
+      <h2>averageki@ajou.ac.kr</h2>
+      <p>디자이너 이메일</p>
+    </ion-item>
+    <ion-item>
+        <ion-icon name="ios-mail" item-left></ion-icon>
+        <h2>hi240@ajou.ac.kr></h2>
+        <p>디자이너 이메일</p>
+    </ion-item>
+  </ion-list>
+
+</ion-content>

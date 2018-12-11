@@ -1,0 +1,251 @@
+{
+  "category" : [ {
+    "description" : "태화장",
+    "imgBg" : "./assets/masonry-1.jpg",
+    "name" : "태화장",
+    "show" : true,
+    "type" : "place"
+  }, {
+    "description" : "가리비야",
+    "imgBg" : "./assets/masonry-4.jpg",
+    "name" : "가리비야",
+    "show" : true,
+    "type" : "place"
+  },{
+    "description" : "목포횟집",
+    "imgBg" : "./assets/masonry-2.jpeg",
+    "name" : "목포횟집",
+    "show" : true,
+    "type" : "place"
+  }, {
+    "description" : "오징어청춘",
+     "imgBg" : "./assets/masonry-6.jpg",
+   "name" : "오징어청춘",
+    "show" : true,
+    "type" : "place"
+  },{
+    "description" : "곱창고",
+    "imgBg" : "./assets/masonry-3.jpeg",
+    "name" : "곱창고",
+    "show" : true,
+    "type" : "place"
+  }, {
+    "description" : "서산집",
+    "imgBg" : "./assets/masonry-7.png",
+    "name" : "서산집",
+    "show" : true,
+    "type" : "place"
+  }, {
+    "description" : "해품달",
+    "imgBg" : "./assets/masonry-8.png",
+    "name" : "해품달",
+    "show" : true,
+    "type" : "place"
+  }, {
+    "description" : "싱싱해물나라",
+    "imgBg" : "./assets/masonry-9.png",
+    "name" : "싱싱해물나라",
+    "show" : true,
+    "type" : "place"
+  },{
+    "imgBg" : "./assets/trip-1.jpg",
+    "name" : "오늘도 설레는 커플 여행",
+    "show" : true,
+    "total" : "1 item",
+    "type" : "trip"
+  }, {
+    "imgBg" : "./assets/trip-2.jpg",
+    "name" : "나와 공감하는 여행",
+    "show" : true,
+    "total" : "1 item",
+    "type" : "trip"
+  }, {
+    "imgBg" : "./assets/trip-3.jpg",
+    "name" : "가족과 즐길 수 있는 여행",
+    "show" : true,
+    "total" : "1 item",
+    "type" : "trip"
+  }, {
+    "imgBg" : "./assets/trip-4.jpg",
+    "name" : "친구와 추억을 남기는 여행",
+    "show" : true,
+    "total" : "1 item",
+    "type" : "trip"
+  }, {
+    "imgBg" : "./assets/trip-5.jpg",
+    "name" : "반려견과 함께 가는 여행",
+    "show" : true,
+    "total" : "1 item",
+    "type" : "trip"
+  }, {
+    "imgBg" : "./assets/trip-6.jpg",
+    "name" : "소소하지만 확실한 여행",
+    "show" : true,
+    "total" : "1 item",
+    "type" : "trip"
+  } ],
+  "gallery" : [ {
+    "name" : "amsterdam",
+    "url" : "https://unsplash.it/950/800?image=1014"
+  } ],
+  "list" : [ {
+    "address" : "경기도 수원시 팔달구 우만2동 89-11",
+    "categoryId" : 0,
+    "description" : "'돼지국밥', '해장', '집밥', '아주대'",
+    "images" : [ {
+      "title" : "name",
+      "url" : "./assets/thj-1.png"
+    }, {
+      "title" : "name",
+      "url" : "./assets/thj-2.png"
+    }, {
+      "title" : "name",
+      "url" : "./assets/thj-3.png"
+    }, {
+      "title" : "name",
+      "url" : "./assets/thj-4.png"
+    }, {
+      "title" : "name",
+      "url" : "./assets/thj-5.png"
+    }, {
+    "categoryId" : 0,
+    "description" : "#캐논 #캠코더 #XF300 <ul> <li>Body+Lens</li> <li>Full HD</li> <li>CF card</li></ul>",
+    "imgSmall" : "https://www.usa.canon.com/internet/wcm/connect/us/7d1c5254-ff5b-4d3e-9cf7-ed369371e18f/xf300-professional-camcorder-front-d.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_P1KGHJ01L85180AUEPQQJ53034-7d1c5254-ff5b-4d3e-9cf7-ed369371e18f-kZo3h9c",
+    "name" : "CANON XF-300",
+    "type" : "camera"
+  } ],
+    "imgBig" : "https://mp-seoul-image-production-s3.mangoplate.com/479659_1513681020439240.jpg?fit=around|512:512&crop=512:512;*,*&output-format=jpg&output-quality=80",
+    "imgSmall" : "https://mp-seoul-image-production-s3.mangoplate.com/479659_1513681020439240.jpg?fit=around|512:512&crop=512:512;*,*&output-format=jpg&output-quality=80",
+    "location" : "영업 시간 : 오전 7:00 ~ 오후 10:00",
+    "name" : "태화장",
+    "phone" : "+82 031-213-6998",
+    "rate" : 4,
+    "type" : "아주대학교",
+    "web" : "관련 홈페이지가 없습니다."
+  }, {
+    "categoryId" : 8,
+    "description" : "#휴픽 <p> 작고 가볍지만 무시할 수 없는 성능을 가진 멋진 카메라에요. 사진을 찍기 위해 눈을 대고 들여다보는 장치인 뷰파인더 없이 화면만 보고서도 촬영이 가능하고 가볍지만 부담없는 선명한 사진을 제공할 수 있답니다.</p>",
+    "imgSmall" : "./assets/cam-1.jpg",
+    "name" : "미러리스",
+    "price" : 19
+  }, {
+    "categoryId" : 9,
+    "description" : "#먹픽 <p> 작고 가볍지만 무시할 수 없는 성능을 가진 멋진 카메라에요. 사진을 찍기 위해 눈을 대고 들여다보는 장치인 뷰파인더 없이 화면만 보고서도 촬영이 가능하고 가볍지만 부담없는 선명한 사진을 제공할 수 있답니다.</p>",
+    "imgSmall" : "./assets/cam-2.jpg",
+    "name" : "미러리스",
+    "price" : 19
+  }, {
+    "categoryId" : 11,
+    "description" : "#놀픽 <p> 주머니에 쏙들어가는 작은 크기의 컴팩트 카메라는 DLSR이나 미러리스처럼 섬세하고 자유로운 설정은 어렵지만 가격이 싸고 튼튼해 활동적인 사람에게 제격이에요.</p>",
+    "imgSmall" : "./assets/cam-3.jpg",
+    "name" : "컴팩트 카메라",
+    "price" : 19
+  }, {
+    "categoryId" : 12,
+    "description" : "#스마픽 #쇼픽 <p> DSLR은 가장 선명한 퀄리티를 보여주는 렌즈가 다양한 전문성이 짙은 카메라에요. 카메라에 대한 지식과 약간의 체력이 있다면 강력한 기능과 압도적인 화질로 완벽한 사진을 찍을 수 있어요.</p>",
+    "imgSmall" : "./assets/cam-4.jpg",
+    "name" : "DSLR",
+    "price" : 19
+  }, {
+    "categoryId" : 10,
+    "description" : "#힙픽 <p>디자인부터 빈티지함을 가득 몰고 오는 필름카메라. 사진을 찍기 위해 돌리는 레버, 기분이 좋아지는 찰칵 소리... 필름 카메라만의 감성 넘치는 화질은 모두를 추억으로 빠지게 만들어요.</p>",
+    "imgSmall" : "./assets/cam-5.jpg",
+    "name" : "필름카메라",
+    "price" : 24,
+    "promotion" : true
+  } ],
+  "map" : [ {
+    "address" : "Hospitality District Asset Area 12 | Aerocity, New Delhi international Airport.",
+    "amenities" : "<ul>  <li>Pool</li> <li>Free Parking</li> <li>Fitness Center with Gym</li> <li>Room Service</li> <li>Restaurant</li> <li>Bar/Lounge</li> <li>Spa</li> <li>FreeWiFi</li> </ul>",
+    "description" : "Stay at the Holiday Inn New Delhi International Airport for convenient access to the airport, South & Central Delhi and Gurgaon industrial and financial center of Haryana. The hotel is ideal for business, leisure and transit travelers. Facilities includes a choice of 3 dining options, round the clock room service, complimentary internet access and both ways airport transfers on qualifying rates. Leisure facilities include a Spa and Salon, outdoor swimming pool, fitness center accessible round the clock, a souvenir shop and a convenience store as well as a 24 hours transportation desk. The adjoining Aerocity metro station provides quick and efficient access all day to areas like Connaught Place. The service of liquor is prohibited in various hotel premises including us in regards to the recent ban by the Supreme Court.",
+    "email" : "info@gmail.com",
+    "image" : "https://media-cdn.tripadvisor.com/media/photo-o/0e/c2/2d/f9/swimming-pool.jpg",
+    "lat" : 28.613939,
+    "lng" : 77.209021,
+    "name" : "Holiday Inn New Delhi ",
+    "phone" : "00 86 872 668 8888",
+    "rating" : 4,
+    "status" : "open",
+    "web" : "www.HolidayInn.com"
+  } ],
+  "masonry" : [ null, {
+    "description" : "아주대 태화장",
+    "profileImg" : "https://s-media-cache-ak0.pinimg.com/564x/34/ce/64/34ce6428220f8c13ed871cb32a9f0046.jpg",
+    "profileName" : "이사라",
+    "title" : "태화장",
+    "url" : "https://mp-seoul-image-production-s3.mangoplate.com/479659_1513681020439240.jpg?fit=around|512:512&crop=512:512;*,*&output-format=jpg&output-quality=80"
+  }, {
+    "description" : "소래포구 목포횟집",
+    "profileImg" : "https://s-media-cache-ak0.pinimg.com/564x/34/ce/64/34ce6428220f8c13ed871cb32a9f0046.jpg",
+    "profileName" : "이사라",
+    "title" : "목포횟집",
+    "url" : "./assets/masonry-2.jpeg"
+  }, {
+    "description" : "곱창고 인천주안점",
+    "profileImg" : "https://s-media-cache-ak0.pinimg.com/564x/34/ce/64/34ce6428220f8c13ed871cb32a9f0046.jpg",
+    "profileName" : "이사라",
+    "title" : "곱창고",
+    "url" : "./assets/masonry-3.jpeg"
+  }, {
+    "description" : "가리비야",
+    "profileImg" : "https://s-media-cache-ak0.pinimg.com/564x/34/ce/64/34ce6428220f8c13ed871cb32a9f0046.jpg",
+    "profileName" : "이사라",
+    "title" : "가리비야",
+    "url" : "./assets/masonry-4.jpg"
+  }, {
+    "description" : "오징어청춘",
+    "profileImg" : "https://s-media-cache-ak0.pinimg.com/564x/34/ce/64/34ce6428220f8c13ed871cb32a9f0046.jpg",
+    "profileName" : "이사라",
+    "title" : "오징어청춘",
+    "url" : "./assets/masonry-5.png"
+  }, {
+    "description" : "오징어청춘",
+    "profileImg" : "https://s-media-cache-ak0.pinimg.com/564x/34/ce/64/34ce6428220f8c13ed871cb32a9f0046.jpg",
+    "profileName" : "이사라",
+    "title" : "오징어청춘",
+    "url" : "./assets/masonry-6.jpg"
+  } ],
+  "profile" : [ {
+    "aboutMe" : "Our Starbucks store locator will help you find locations near you where you can enjoy great ... Kiosk H on 9/F, Times Square1 Matheson Street, Causeway Bay",
+    "company" : "Starbuck",
+    "email" : "starbuck@gmail.com",
+    "follower" : 100,
+    "following" : 532,
+    "imgCover" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/New_york_times_square-terabass.jpg/640px-New_york_times_square-terabass.jpg",
+    "imgProfile" : "http://www.pngmart.com/files/3/Starbucks-Logo-PNG-Image.png",
+    "name" : "Starbuck Time Square",
+    "openingTime" : "<ul> <li>Mon-Fri 10:00 - 22:00</li> <li>Saturday 09:00 - 20:00</li> <li>Sunday close</li> </ul>",
+    "phone" : 5435453534,
+    "position" : "Manager",
+    "post" : 53,
+    "tags" : [ null, {
+      "name" : "business"
+    } ]
+  }, {
+    "aboutMe" : "추억을 담는 생생한 여행! Tripic은 24시간 소통에 지친, 아날로그 향기를 그리워하는 여행자들을 위해 만들어진 감성 여행 플랫폼입니다. 바쁜 일상 속에서, 누가 내 취향을 알아주나요? 바로 Tripic에서 여러분의 취향을 저격해 맞춤형 콘텐츠를 추천해드립니다!",
+    "company" : "Tripic",
+    "email" : "engel5105@ajou.ac.kr",
+    "facebook" : "facebook.com/Tripic-252288005454654",
+    "follower" : 0,
+    "following" : 0,
+    "friends" : [ null, {
+      "name" : "Josh Kuron",
+      "profileImg" : "http://ionicframework.com/dist/preview-app/www/assets/img/avatar-finn.png"
+    } ],
+    "imgCover" : "ff",
+    "imgGallery" : [ null, {
+      "imgUrl" : "https://unsplash.it/600/600?image=376"
+    } ],
+    "imgProfile" : "./assets/ionic.png",
+    "name" : "Tripic",
+    "phone" : "0234234234",
+    "position" : "CEO",
+    "post" : 43
+  } ],
+  "userProfile" : {
+    "-KjRQgnEeTJNIU8q60Rd" : {
+      "email" : "mata@gmail.com",
+      "name" : "Udom Mattmut"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+<ion-header no-border>
+  <ion-navbar transparent color="primary">
+    <button ion-button menuToggle>
+      <ion-icon name="menu" color="light"></ion-icon>
+    </button>
+  </ion-navbar>
+</ion-header>
+
+<ion-content fullscreen="true" no-padding >
+
+    <div class="profile-box">
+        <div text-center>
+            <img *ngIf="(profile | async)?.photo" src="{{(profile | async)?.photo}}" class="edit-avatar pop-in" alt="">
+            <img  *ngIf="!(profile | async)?.photo" src = "./assets/muc-pic.png" class="edit-avatar pop-in" alt="">
+        </div>
+    </div>
+
+  <div class="profile-name">
+    <div text-center>
+      이사라
+    </div>
+  </div>
+
+  <div class="profile-pic">
+    <div text-center>
+      먹픽
+    </div>
+  </div>
+
+    <div padding>
+        <ion-list no-lines >
+            <ion-item>
+                <ion-icon name="ios-mail" item-left></ion-icon>
+                <h2>{{(profile | async)?.email}}</h2>
+                <p>tripic@tripic.com</p>
+            </ion-item>
+        </ion-list>
+
+      <button ion-button block mode="ios" color="orange">
+        찜목록
+      </button>
+       <button ion-button block mode="ios" color="orange" (click)="logout()">
+          Logout
+        </button>
+    </div>
+
+</ion-content>
